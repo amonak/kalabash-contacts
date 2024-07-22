@@ -1,6 +1,8 @@
 Address book plugin for Kalabash
 ================================
 
+Kalabash Address book plugin
+
 Installation
 ------------
 
